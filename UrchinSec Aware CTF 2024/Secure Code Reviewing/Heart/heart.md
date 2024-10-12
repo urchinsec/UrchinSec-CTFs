@@ -1,6 +1,6 @@
 # Heart - 100 points
 
-# Description
+## Description
 
 Review the code below and identify the vulnerability:
 
